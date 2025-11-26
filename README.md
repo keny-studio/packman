@@ -1,2 +1,3 @@
 # packman
-pacKman - collection of cool package managers packages
+
+ ## $${\color{red}PackMan}$$ - collection of cool package managers packages
