@@ -12,3 +12,4 @@
 | socket.io | npm install socket.io | library that enables real-time, bidirectional and event-based communication between the browser and the server |
 | prompt-sync | npm install prompt-sync | sync prompt for node. very simple. no C++ bindings and no bash scripts. |
 | express |  npm install express | Fast, unopinionated, minimalist web framework for Node.js. |
+| tailwindcss | npm i tailwindcss | Utility-first CSS framework for rapidly building custom user interfaces. |
