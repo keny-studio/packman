@@ -13,3 +13,4 @@
 | prompt-sync | npm install prompt-sync | sync prompt for node. very simple. no C++ bindings and no bash scripts. |
 | express |  npm install express | Fast, unopinionated, minimalist web framework for Node.js. |
 | tailwindcss | npm i tailwindcss | Utility-first CSS framework for rapidly building custom user interfaces. |
+| astro | npm create astro@latest | All-in-one web framework designed for speed |
