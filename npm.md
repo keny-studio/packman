@@ -15,3 +15,4 @@
 | tailwindcss | npm i tailwindcss | Utility-first CSS framework for rapidly building custom user interfaces. |
 | astro | npm create astro@latest | All-in-one web framework designed for speed |
 | lighthouse | npm i -g lighthouse | Web apps and web pages analysis -collecting modern performance metrics and insights on developer best practices. |
+| Nodemailer | npm i nodemailer | module for Node.js applications that enables easy, secure email sending using SMTP, AWS SES, or other transport methods |
