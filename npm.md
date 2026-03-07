@@ -18,3 +18,4 @@
 | Nodemailer | npm i nodemailer | module for Node.js applications that enables easy, secure email sending using SMTP, AWS SES, or other transport methods |
 | lodash | npm i --save lodash | modern JavaScript utility library delivering modularity, performance & extras |
 | axios | npm install axios | promise based HTTP client for the browser and node.js |
+| preact | npm i preact | Fast 3kB alternative to React with the same modern API |
