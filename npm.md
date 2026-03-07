@@ -17,3 +17,4 @@
 | lighthouse | npm i -g lighthouse | Web apps and web pages analysis -collecting modern performance metrics and insights on developer best practices. |
 | Nodemailer | npm i nodemailer | module for Node.js applications that enables easy, secure email sending using SMTP, AWS SES, or other transport methods |
 | lodash | npm i --save lodash | modern JavaScript utility library delivering modularity, performance & extras |
+| axios | npm install axios | promise based HTTP client for the browser and node.js |
