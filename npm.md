@@ -19,4 +19,5 @@
 | lodash | npm i --save lodash | modern JavaScript utility library delivering modularity, performance & extras |
 | axios | npm install axios | promise based HTTP client for the browser and node.js |
 | preact | npm i preact | Fast 3kB alternative to React with the same modern API |
-| shadcn | npx shadcn@latest init | Sollection of re-usable, customizable components for building web applications, designed for React, Tailwind CSS, and Radix UI |
+| shadcn | npx shadcn@latest init | collection of re-usable, customizable components for building web applications, designed for React, Tailwind CSS, and Radix UI |
+| storybook | npm i storybook | frontend workshop for building UI components and pages in isolation |
