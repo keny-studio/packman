@@ -21,3 +21,4 @@
 | preact | npm i preact | Fast 3kB alternative to React with the same modern API |
 | shadcn | npx shadcn@latest init | collection of re-usable, customizable components for building web applications, designed for React, Tailwind CSS, and Radix UI |
 | storybook | npm i storybook | frontend workshop for building UI components and pages in isolation |
+| lucide | npm i lucide | icon library for web applications |
