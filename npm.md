@@ -24,3 +24,4 @@
 | lucide | npm i lucide | icon library for web applications |
 | mjml | npm install mjml | framework that makes responsive-email easy |
 | wp-env | npm i @wordpress/env | local WordPress environment for building and testing plugins and themes |
+| esbuild | npm i esbuild | JavaScript bundler and minifier |
