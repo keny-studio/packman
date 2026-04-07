@@ -23,3 +23,4 @@
 | storybook | npm i storybook | frontend workshop for building UI components and pages in isolation |
 | lucide | npm i lucide | icon library for web applications |
 | mjml | npm install mjml | framework that makes responsive-email easy |
+| wp-env | npm i @wordpress/env | local WordPress environment for building and testing plugins and themes |
